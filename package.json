@@ -1,0 +1,21 @@
+{
+  "name": "in-class-lab-hosting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvlt1/in-class-lab-hosting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvlt1/in-class-lab-hosting/issues"
+  },
+  "homepage": "https://github.com/nvlt1/in-class-lab-hosting#readme"
+}
